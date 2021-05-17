@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//saurabhjha656.github.io/react-deploy/static/css/main.642bdf53.chunk.css",
+    "main.js": "/http//saurabhjha656.github.io/react-deploy/static/js/main.68c24df1.chunk.js",
+    "main.js.map": "/http//saurabhjha656.github.io/react-deploy/static/js/main.68c24df1.chunk.js.map",
+    "runtime-main.js": "/http//saurabhjha656.github.io/react-deploy/static/js/runtime-main.e07342ef.js",
+    "runtime-main.js.map": "/http//saurabhjha656.github.io/react-deploy/static/js/runtime-main.e07342ef.js.map",
+    "static/js/2.166e314a.chunk.js": "/http//saurabhjha656.github.io/react-deploy/static/js/2.166e314a.chunk.js",
+    "static/js/2.166e314a.chunk.js.map": "/http//saurabhjha656.github.io/react-deploy/static/js/2.166e314a.chunk.js.map",
+    "static/js/3.d6f698ee.chunk.js": "/http//saurabhjha656.github.io/react-deploy/static/js/3.d6f698ee.chunk.js",
+    "static/js/3.d6f698ee.chunk.js.map": "/http//saurabhjha656.github.io/react-deploy/static/js/3.d6f698ee.chunk.js.map",
+    "index.html": "/http//saurabhjha656.github.io/react-deploy/index.html",
+    "static/css/main.642bdf53.chunk.css.map": "/http//saurabhjha656.github.io/react-deploy/static/css/main.642bdf53.chunk.css.map",
+    "static/js/2.166e314a.chunk.js.LICENSE.txt": "/http//saurabhjha656.github.io/react-deploy/static/js/2.166e314a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e07342ef.js",
+    "static/js/2.166e314a.chunk.js",
+    "static/css/main.642bdf53.chunk.css",
+    "static/js/main.68c24df1.chunk.js"
+  ]
+}
